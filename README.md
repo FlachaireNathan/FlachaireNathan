@@ -4,15 +4,15 @@ Hi 👋 My name is Flachaire Nathan
 Frontend Web Developer
 ----------------------
 
-Being solo dev for more than one year in my company taught me a lot ! I work mostly with angular and Azure Cloud Services at my company but I'm interested in expanding my skills ! 🔥
+I mostly worked with angular for 3 years now ! 🔥 I have touched a bit of Svelte, C# and Azure.
 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [Soon to be deployed...](http://soon-to-be-deployed.net)
 * ✉️  You can contact me at [nathan.flachaire@outlook.fr](mailto:nathan.flachaire@outlook.fr)
 * 🚀  I'm currently working on [My portfolio](http://soon-to-be-deployed.net)
 * 🧠  I'm learning Svelte and how to center a div
-* 🤝  I'm open to collaborating on Frontend projects related with Svelte, Game Design stuff, MTG or anything picking my interest really, just hit me up ! 👍
-* ⚡  Web3 seems interesting, I probably should take a look into it some day...
+* 🤝  I'm open to collaborating on any project that pick my interest, just hit me up ! 👍
+* ⚡  Interested to go more into the backend side of projects and learning new languages such as Go, C/C++ or Rust.
 
 <a href="https://www.twitter.com/FlachaireNathan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/FlachaireNathan?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917"
